@@ -2,7 +2,7 @@
 # Tested with Python 3.10
 
 # Deep Learning
-torch==2.5.1+cu121
+torch==2.8.0
 torchvision==0.20.1+cu121
 
 # Data Processing
